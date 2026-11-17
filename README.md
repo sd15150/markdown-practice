@@ -10,10 +10,10 @@ I try to go to the gym ***three or four times a week*** and each day I work on a
 
 I usually divide it into:
 
--legs
--back and biceps
--chest, shoulders and triceps
--abs
+- legs
+- back and biceps
+- chest, shoulders and triceps
+- abs
 
 | Day | Muscle Group |
 |---|---|
