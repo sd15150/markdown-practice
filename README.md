@@ -31,7 +31,7 @@ I usually divide it into:
 
 ## A Good Fitness Website
 
-If I want to try something new but I don't know what to do, I usually look online for some insipration, [Muscle&Strenght] (https://www.muscleandstrength.com/exercises) is an example.
+If I want to try something new but I don't know what to do, I usually look online for some insipration, [Muscle&Strenght](https://www.muscleandstrength.com/exercises) is an example.
 
 ## Gym & Python
 
